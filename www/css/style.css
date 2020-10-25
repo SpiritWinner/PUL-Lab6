@@ -1,0 +1,42 @@
+body {
+    background-color: #282828!important;
+}
+
+.container {
+    margin-top: 50px;
+    width: 40%!important;
+}
+
+form {
+    background: #ffaa00;
+    border-radius: 10px;
+    padding: 35px 10px;
+}
+
+.display-4 {
+    text-align: center !important;
+}
+
+#task {
+    width: 65%;
+    float: left;
+    margin-right: 5%;
+    margin-bottom: 10px;
+}
+
+.contentTable {
+    margin-top: 50px;
+    width: 50% !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn-rounded {
+    border-radius: 19px !important;
+    width: 100px !important;
+}
+
+.btn-rounded-1 {
+    border-radius: 19px !important;
+}
+
