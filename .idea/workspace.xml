@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1da512b4-3b48-4a44-9e0a-61caeeab852d" name="Default Changelist" comment="" />
+    <list default="true" id="1da512b4-3b48-4a44-9e0a-61caeeab852d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/update.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/update.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/view.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +44,21 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1jMvYrwlRFBJFaFkXPxGlVOTS58" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -26,16 +66,24 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ПУЛ/lab6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="settings.php.debug.servers" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Test PDO\MyPDOTest\www" />
       <recent name="D:\Test PDO\MyPDOTest\kkk" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Start" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8080">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -45,12 +93,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603626825689</updated>
-      <workItem from="1603626826738" duration="22668000" />
+      <workItem from="1603626826738" duration="24386000" />
+      <workItem from="1603705335447" duration="29000" />
+      <workItem from="1603710672950" duration="2281000" />
+      <workItem from="1603783634877" duration="672000" />
+      <workItem from="1603818410263" duration="35000" />
+      <workItem from="1603836328248" duration="48000" />
+      <workItem from="1603888983389" duration="137000" />
+      <workItem from="1603911326929" duration="6000" />
+      <workItem from="1604329720970" duration="15000" />
+      <workItem from="1604406760321" duration="17000" />
+      <workItem from="1604851291656" duration="2527000" />
+      <workItem from="1604853871896" duration="8110000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="263" y="19" key="#CLI_Interpreters" timestamp="1603627650128">
@@ -61,21 +132,57 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="390" y="7" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1603627655580" />
-    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603632209601">
+    <state x="59" y="205" key="#SQL_Dialects" timestamp="1604857667384">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1603632209601" />
+    <state x="59" y="205" key="#SQL_Dialects/0.0.1366.728@0.0.1366.728" timestamp="1604857667384" />
+    <state x="400" y="26" key="#Servers" timestamp="1604854621773">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="26" key="#Servers/0.0.1366.728@0.0.1366.728" timestamp="1604854621773" />
+    <state x="274" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604856499883">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1604856499883" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1603636319928">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603636319928" />
-    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1603640911947">
+    <state x="557" y="262" key="Github.ShareDialog" timestamp="1603650969401">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1603640911947" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1603648259391">
+    <state x="557" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1603650969401" />
+    <state x="544" y="69" key="Github.UntrackedFilesDialog" timestamp="1603650980911">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1603648259391" />
+    <state x="544" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603650980911" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1604856674733">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604856674733" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1604856674733">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604856674733" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1604856674733">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604856674733" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1604856674733">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604856674733" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1604851491706">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1604851491706" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1604854435483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604854435483" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1604859625742">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1604859625742" />
   </component>
 </project>

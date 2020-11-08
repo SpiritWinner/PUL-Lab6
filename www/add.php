@@ -1,9 +1,8 @@
 <?php
-require 'config.php';
-global $pdo;
+include "DB.php";
 
-$name = $_POST['name'];
-$email = $_POST['email'];
+$name  = filter($_POST['name']);
+$email = filter($_POST['email']);
 
 if ($name == '' || $email == '') {
     echo
@@ -18,9 +17,5 @@ if ($name == '' || $email == '') {
     ';
     exit();
 }
-
-$sql = 'INSERT INTO mybdtest(name, email) VALUE(:name, :email)';
-$query = $pdo->prepare($sql);
-$query->execute(['name' => $name, 'email' => $email]);
-
+addDB($name, $email);
 header('Location: ./index.php');

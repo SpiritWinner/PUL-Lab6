@@ -11,13 +11,9 @@
     <div class="container">
 
         <?php
-        require 'config.php';
-        global $pdo;
-
-        if (isset($_GET['id'])) {
-            $id = $_GET['id'];
-        }
-        $date = $pdo->query("select * from mybdtest where id ='$id'");
+        include "DB.php";
+        $id = filter($_GET['id']);
+        $date = get_date($id);
         foreach ($date as $row){
         ?>
         <form action="update.php?id=<?php echo $id ?>" method="post">
@@ -39,7 +35,7 @@
             ?>
 
             <div class="form-actions">
-                <button type="submit" name='submit' class="btn btn-success btn-rounded">Update</button>
+                <button type="submit" name='update' class="btn btn-success btn-rounded">Update</button>
                 <a class="btn btn-outline-info btn-rounded" href="index.php">Back</a>
             </div>
 
@@ -49,15 +45,11 @@
 </body>
 </html>
 <?php
-require 'config.php';
-global $pdo;
-
-if (isset($_POST['submit'])) {
-    $name = $_POST['name'];
-    $email = $_POST['email'];
-    $sql = "UPDATE mybdtest SET name=?, email=? WHERE id=?";
-    $query = $pdo->prepare($sql);
-    $query->execute([$name, $email, $id]);
+if (isset($_POST['update']))
+{
+    $name  = filter($_POST['name']);
+    $email = filter($_POST['email']);
+    update($name, $email, $id);
     header("Location: index.php");
 }
 ?>
