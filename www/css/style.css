@@ -31,6 +31,10 @@ form {
     margin-right: auto;
 }
 
+.simpleText{
+    color: #ffffff !important;
+}
+
 .btn-rounded {
     border-radius: 19px !important;
     width: 100px !important;

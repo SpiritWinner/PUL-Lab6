@@ -13,16 +13,10 @@
         <h3>View a Customer</h3>
 
         <?php
-        require 'config.php';
-        global $pdo;
-
-        if (isset($_GET['id'])) {
-            $id = $_GET['id'];
-        }
-        $date = $pdo->query("select * from mybdtest where id ='$id'");
-        foreach ($date
-
-        as $row){
+        include "DB.php";
+        $id = filter($_GET['id']);
+        $date = get_date($id);
+        foreach ($date as $row){
         ?>
 
         <div class="form-horizontal">
