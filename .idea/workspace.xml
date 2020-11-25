@@ -22,15 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1da512b4-3b48-4a44-9e0a-61caeeab852d" name="Default Changelist" comment="">
+    <list default="true" id="1da512b4-3b48-4a44-9e0a-61caeeab852d" name="Default Changelist" comment="---">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/add.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/config.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/delete.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/update.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/update.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/view.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +61,9 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="ToolWindowCommit.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/MAMP/htdocs" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="settings.php.debug.servers" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -79,11 +73,6 @@
       <recent name="D:\Test PDO\MyPDOTest\www" />
       <recent name="D:\Test PDO\MyPDOTest\kkk" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Start" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8080">
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -104,8 +93,27 @@
       <workItem from="1604329720970" duration="15000" />
       <workItem from="1604406760321" duration="17000" />
       <workItem from="1604851291656" duration="2527000" />
-      <workItem from="1604853871896" duration="8110000" />
+      <workItem from="1604853871896" duration="8176000" />
+      <workItem from="1604919318622" duration="4772000" />
+      <workItem from="1605294793831" duration="36000" />
+      <workItem from="1606130472965" duration="2108000" />
+      <workItem from="1606132869374" duration="34000" />
     </task>
+    <task id="LOCAL-00001" summary="---">
+      <created>1604862087395</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604862087396</updated>
+    </task>
+    <task id="LOCAL-00002" summary="---">
+      <created>1604919941985</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604919941985</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,15 +131,19 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="---" />
+    <option name="LAST_COMMIT_MESSAGE" value="---" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="263" y="19" key="#CLI_Interpreters" timestamp="1603627650128">
+    <state x="263" y="19" key="#CLI_Interpreters" timestamp="1606130672207">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="263" y="19" key="#CLI_Interpreters/0.0.1366.728@0.0.1366.728" timestamp="1603627650128" />
-    <state x="390" y="7" key="#PHP" timestamp="1603627655580">
+    <state x="263" y="19" key="#CLI_Interpreters/0.0.1366.728@0.0.1366.728" timestamp="1606130672207" />
+    <state x="390" y="7" key="#PHP" timestamp="1606130679746">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="7" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1603627655580" />
+    <state x="390" y="7" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1606130679746" />
     <state x="59" y="205" key="#SQL_Dialects" timestamp="1604857667384">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -140,14 +152,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="400" y="26" key="#Servers/0.0.1366.728@0.0.1366.728" timestamp="1604854621773" />
-    <state x="274" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604856499883">
+    <state x="274" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606132148804">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="274" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1604856499883" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1603636319928">
+    <state x="274" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1606132148804" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1606132901013">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603636319928" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606132901013" />
     <state x="557" y="262" key="Github.ShareDialog" timestamp="1603650969401">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -156,22 +168,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="544" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603650980911" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1604856674733">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1606132586531">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604856674733" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1604856674733">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606132586531" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1606132586531">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604856674733" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1604856674733">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606132586531" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1606132586530">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604856674733" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1604856674733">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606132586530" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1606132586531">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604856674733" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606132586531" />
     <state x="517" y="287" key="NewPhpFileDialog" timestamp="1604851491706">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -180,6 +192,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604854435483" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604919955366">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604919955366" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604919950919">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1604919950919" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1604859625742">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
